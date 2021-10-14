@@ -1,6 +1,7 @@
 # samrecile
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrecile&theme=synthwave&show_icons=true&count_private=true “Sam’s GitHub Stats”)
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrecile)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrecile&theme=synthwave "Sam's Top Languages Card”)
 
